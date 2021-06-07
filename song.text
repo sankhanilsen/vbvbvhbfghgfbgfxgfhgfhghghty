@@ -1,0 +1,6 @@
+function play(){
+song.play();
+}
+function preload(){
+ song = loadSound("music.mp3");
+}
